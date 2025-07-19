@@ -27,8 +27,8 @@ jobs:
         with:
           github_user_name: ${{ github.evelynmineo }}
           outputs: |
-          dist/github-contribution-grid-snake.svg?color_snake=#F78DD9&palette=custom#F062C0
-          dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#F78DD9
+         "dist/github-contribution-grid-snake.svg?color_snake=#F78DD9&palette=custom#F062C0"
+         "dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#F78DD9"
 
 
       # publica os SVGs na branch `output`

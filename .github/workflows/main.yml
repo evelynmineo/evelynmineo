@@ -1,0 +1,25 @@
+name: Generate Pacman SVG
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Atualiza todo domingo
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman Contribution Graph
+        uses: maurodesouza/github-contribution-grid-snake@main
+
+      - name: Commit & Push changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "chore: update pacman contribution graph"
+          git push

@@ -23,3 +23,9 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/evelynmineo/evelynmineo/output/github-contribution-grid-snake.svg">
 </picture>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=evelynmineo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&theme=transparent&title_color=F78DD9&icon_color=F78DD9&text_color=F78DD9&border_color=F78DD9" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evelynmineo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&theme=transparent&title_color=F78DD9&icon_color=F78DD9&text_color=F78DD9&border_color=F78DD9" height="150" alt="languages graph" />
+</div>

@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Desenvolvedora full stack em formação, dedicada a construir soluções modernas, eficientes e com propósito. Atualmente, foco meus estudos em Java e tecnologias complementares, aplicando conhecimentos de Engenharia de Computação para transformar teoria em projetos reais. Busco sempre expandir minhas habilidades para entregar software de qualidade e impactar positivamente o mundo digital.</p>
 
 ###
 

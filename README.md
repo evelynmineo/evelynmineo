@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">🎓 Graduanda em Engenharia de Computação<br>💗 Estudando Java, desenvolvimento fullstack e Engenharia de Plataforma<br>🌷 Apaixonada por tecnologia e focada em criar soluções eficientes e escaláveis</p>
 
 ###
 

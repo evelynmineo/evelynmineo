@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Pacman Contribution Graph
-        uses: maurodesouza/github-contribution-grid-snake@main
+        uses: evelynmineo/github-contribution-grid-snake@main
 
       - name: Commit & Push changes
         run: |
